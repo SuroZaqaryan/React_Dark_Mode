@@ -1,0 +1,18 @@
+.black {
+  background-color: black;
+  color: white;
+}
+.light {
+  background-color: blanchedalmond;
+  color: black;
+}
+.nav {
+  background-color: blue;
+  color: white;
+}
+.toggle-container {
+  background-color: blue;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
